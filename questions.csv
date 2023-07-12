@@ -28,7 +28,7 @@ question,answer,fake1,fake2,fake3
 "Selecciona la correcta","Anillo artiniano ⇒ Anillo noetheriano","K^n (K cuerpo) es noetheriano","Todo DIP es artiniano","Todo dominio noetheriano es un DFU"
 "¿Cuándo NO se puede afirmar que I≤A siempre contiene un producto finito de ideales primos?","Nunca, (0) en Z es un contraejemplo","Cuando A es artiniano","Cuando A es noetheriano","Cuando cada ideal primo de A es FG"
 "¿Cómo se prueba el teorema de la base de Hilbert?","Construyendo polinomios en una cadena ascendente","Demostrando la existencia de un isomorfismo entre A[X] y A[X,Y,Z,...]","Es corolario de un resultado anterior","Reducción al absurdo desde el principio"
-"Si tenemos un dominio que no es un cuerpo...","...entonces es noetheriano","...entonces es artiniano","su dimensión de Krull es 0, por lo que es artiniano y noetheriano","...nada puede afirmarse"
+"Si tenemos un dominio que no es un cuerpo...","...no puede ser artiniano","...no puede ser noetheriano","su dimensión de Krull es 0, por lo que es artiniano y noetheriano","...nada puede afirmarse"
 "¿En qué se diferencian f:I → J y g:N → L si el primero es de anillos y el segundo de A-módulos?","El de módulos es más fuerte porque g(a)=a·g(1)","Son la misma cosa","Los homomorfismos de A-módulos siempre son epimorfismos","No existe teorema de la correspondencia para módulos"
 "¿En qué se diferencian la suma directa externa e interna?","La interna exige que los sumandos sean submódulos","La externa es única","La existencia de externa garantiza la existencia de interna","Siempre existe una suma interna, aunque puede no ser única"
 "Si M es FG, ¿cuáles NO son FG?","Los submódulos de M","Los cocientes de M","Las imagénes f(M) para un epimorfismo f","Las sumas con otros módulos FG"
